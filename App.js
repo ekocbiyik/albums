@@ -21,9 +21,3 @@ export default class App extends React.Component {
     );
   };
 };
-
-
-/** section:9, lecture:55 */
-
-
-
